@@ -16,13 +16,13 @@ import './a.less'
 import Asfe from 'amfe-flexible'
 
 
-import 'mint-ui/lib/style.css'
-import MintUI from 'mint-ui'
+// import 'mint-ui/lib/style.css'
+// import MintUI from 'mint-ui'
 
 
 
 
-Vue.use(MintUI)
+// Vue.use(MintUI)
 Vue.use(VueCookies)
 Vue.use(Asfe)
 Vue.use(Vant)

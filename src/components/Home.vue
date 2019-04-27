@@ -37,7 +37,7 @@
         <router-link to="/sign">我要报名</router-link>
       </div>
       <div>
-        <a href>比赛日历</a>
+        <router-link to="/map">地图查询</router-link>
       </div>
       <div class="public">
         <router-link to="/public">赛区公示</router-link>

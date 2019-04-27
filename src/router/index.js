@@ -4,6 +4,7 @@ import Home from '@/components/Home'
 import LoginIn from '@/components/LoginIn'
 import Public from '@/components/Public'
 import Sign from '@/components/Sign'
+import Vmap from '@/components/Vmap'
 
 
 
@@ -29,6 +30,11 @@ export default new Router({
       path:'/sign',
       name:'Sign',
       component:Sign
+    },
+    {
+      path:'/map',
+      name:'Vmap',
+      component:Vmap
     }
   ]
 })
